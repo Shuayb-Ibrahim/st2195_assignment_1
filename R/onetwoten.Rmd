@@ -1,0 +1,9 @@
+# Practice Assignment 1
+
+```{r}
+for (i in 1:10) {
+  print(i)
+}
+```
+
+The code above iterates between 1 and 10 and prints the value of i
